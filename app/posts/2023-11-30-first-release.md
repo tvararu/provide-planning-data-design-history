@@ -36,11 +36,11 @@ The user will be sent an email with a link to the service.
 
 Clicking the link takes the user to the start page.
 
-![](https://design-history.ams3.digitaloceanspaces.com/4pwhwgcs5vlux9h0fj3d8hkhph53)
+![](/first-release/01-1-start.png)
 
 Clicking ‘start now’ takes the user to a page to choose the dataset they want to check.
 
-![](https://design-history.ams3.digitaloceanspaces.com/0qd7d1d51uaxibnth9fnvcafg0kq)
+![](/first-release/02-2-dataset.png)
 
 The options are:
 
@@ -49,7 +49,7 @@ The options are:
 
 Once they choose a dataset, they can upload their data.
 
-![](https://design-history.ams3.digitaloceanspaces.com/th0kzmcj9pi8mczsbzscutlnj0dv)
+![](/first-release/03-3-upload.png)
 
 The file must be as CSV, GeoJSON, GML or Geopackage file.
 
@@ -57,15 +57,15 @@ Once they upload their file, the data will be checked to see if it meets the req
 
 If there are errors, the user will be shown a page containing the list of errors.
 
-![](https://design-history.ams3.digitaloceanspaces.com/elfmpuj3vl1x5i0x488fqkwly680)
+![](/first-release/04-4-errors.png)
 
 If there are no errors, the user is told that the checks have passed.
 
-![](https://design-history.ams3.digitaloceanspaces.com/ix03vy1hsb65bo4lcfzh9pbkvu3c)
+![](/first-release/05-5-no-errors.png)
 
 Clicking ‘Continue’ takes the user to a page explaining what they need to do next.
 
-![](https://design-history.ams3.digitaloceanspaces.com/y9ze82761ovggeapcpi5vpvcqjp0)
+![](/first-release/06-6-confirmation.png)
 
 It contains:
 

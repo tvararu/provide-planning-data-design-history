@@ -118,27 +118,27 @@ Clicking the link will take the user to the start page of the service.
 
 ### Start page
 
-![](https://design-history.ams3.digitaloceanspaces.com/9b96ajsoh45socyl4pkp4xixexne)
+![](/first-prototype/10-start-page.png)
 
 ### Data subject
 
-![](https://design-history.ams3.digitaloceanspaces.com/cywk080vq1t7gylvqynrs9hqhii1)
+![](/first-prototype/11-subject.png)
 
 ### Dataset
 
 If the data subject has multiple datasets, the user will be taken to the dataset page.
 
-![](https://design-history.ams3.digitaloceanspaces.com/kty5oh9hltyh4npasmyh362x57ed)
+![](/first-prototype/03-dataset.png)
 
 ### Upload data
 
-![](https://design-history.ams3.digitaloceanspaces.com/zq1rgw6j9k1q0x55fcyvknbp4ae8)
+![](/first-prototype/13-upload.png)
 
 ### Showing errors
 
 If the data contains errors that we cannot fix automatically, the user will be taken to the errors page.
 
-![](https://design-history.ams3.digitaloceanspaces.com/kbmt0ik8g0h3b0x08uw4rlhi69hy)
+![](/first-prototype/05-errors.png)
 
 Users can continue without fixing errors. This allows us to get as much data as possible onto the platform. This will only add the fields without errors to the platform.
 
@@ -159,29 +159,29 @@ This means users have to do less work to prepare their data. Therefore more data
 
 To tell users about these changes, we show them on a separate page.
 
-![](https://design-history.ams3.digitaloceanspaces.com/n7ic9e8ihwwthsivzqdpmmna7m17)
+![](/first-prototype/12-transformations.png)
 
 ### Checking if the user has a webpage where their data is published
 
 We’re currently asking LPAs to publish their data on their own website.
 
-We then take the data from the website and put it onto our platform. 
+We then take the data from the website and put it onto our platform.
 
-At this point in the journey, users may not have a webpage.  So we ask them if they have a webpage. 
+At this point in the journey, users may not have a webpage.  So we ask them if they have a webpage.
 
-![](https://design-history.ams3.digitaloceanspaces.com/k82htm0uvkfn56cviesiwyqcly96)
+![](/first-prototype/07-has-webpage.png)
 
 If they say ‘Yes’ they can continue. If not, we take them to an exit page with information about how to publish their data on their website.
 
-![](https://design-history.ams3.digitaloceanspaces.com/c7u44icfujqin9ybglv4b1dzpgxl)
+![](/first-prototype/06-exit.png)
 
 ### URL where their data is published
 
-![](https://design-history.ams3.digitaloceanspaces.com/tfz489s5ia6d6w2yvg3zezj5dqxu)
+![](/first-prototype/14-webpage.png)
 
 ### Email address
 
-![](https://design-history.ams3.digitaloceanspaces.com/w2h4pol5dsifg24j46zs7t176bzb)
+![](/first-prototype/04-email-address.png)
 
 We ask for this so we can:
 
@@ -192,25 +192,25 @@ We ask for this so we can:
 
 ### First and last name
 
-![](https://design-history.ams3.digitaloceanspaces.com/zt2szuvcxhzpo81ax1pahewr9q0l)
+![](/first-prototype/09-name.png)
 
 We ask for this so we can call them by their name when we contact them.
 
 ### Local planning authority
 
-![](https://design-history.ams3.digitaloceanspaces.com/qe6or0m9ated58ghg6hzm6508evi)
+![](/first-prototype/08-lpa.png)
 
 We ask for this so we know who is sending us their data.
 
 ### Check answers page
 
-![](https://design-history.ams3.digitaloceanspaces.com/7gpxzhu5p0t3uxjvrwiyy0084cud)
+![](/first-prototype/01-check.png)
 
 ### Confirmation page
 
 A confirmation email will also be sent containing a link to download their data.
 
-![](https://design-history.ams3.digitaloceanspaces.com/khrd6fm4rrppxx0q6mxg3t0hkvzu)
+![](/first-prototype/02-confirmation.png)
 
 ## Further considerations
 
