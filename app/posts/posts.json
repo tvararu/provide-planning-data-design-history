@@ -1,4 +1,1 @@
-{
-  "layout": "post",
-  "permalink": "{{ page.filePathStem | replace('posts/', '') }}/"
-}
+{"layout":"post","permalink":"{{ page.filePathStem | replace('posts/', '') }}/"}
