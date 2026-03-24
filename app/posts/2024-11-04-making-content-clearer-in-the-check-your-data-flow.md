@@ -28,8 +28,8 @@ We reviewed the content in the existing flow, and provided suggestions to iterat
 
 ### You have [x number] of rows ready to publish 
 
-![](https://design-history.ams3.digitaloceanspaces.com/hspul1firzdzdi25jh531cd02u0w)
-![](https://design-history.ams3.digitaloceanspaces.com/07bcun31y6a5m48d9gt5ge7wp1ds)
+![](/making-content-clearer-in-the-check-your-data-flow/01-379241496-fccf6395-1f85-4816-bcc6-0273988323dc.png)
+![](/making-content-clearer-in-the-check-your-data-flow/02-screenshot-2024-10-25-at-10.27.00.png)
 
 We’ve changed ‘check your data before you continue’ to ‘you have [x number] of rows ready to publish’ to more accurately reflect the outcome of the previous action of the user who’s providing a file / URL. 
 
@@ -39,7 +39,7 @@ The original content implies that we haven’t checked a user’s file yet, but 
 
 ## Your data has errors
 
-![](https://design-history.ams3.digitaloceanspaces.com/kqro2gj4s3mbngh503lg46n590si)
+![](/making-content-clearer-in-the-check-your-data-flow/03-screenshot-2024-10-25-at-10.29.10.png)
 
 The content underneath the errors used to be similar to this, except we used to provide a third step which was ‘publish the data’, but the user isn’t actually at that step just yet. 
 
@@ -49,7 +49,7 @@ We also now provide a link to the data guidance for the user to refer to whilst 
 
 ## You can now publish your data 
 
-![](https://design-history.ams3.digitaloceanspaces.com/4w5xx16i9op2bzcpkkeb91m761t9)
+![](/making-content-clearer-in-the-check-your-data-flow/04-screenshot-2024-10-25-at-10.29.49.png)
 
 The confirmation banner used to say ’Send us your data’, but it felt passive and we thought we could be more intentional with the action the user now needs to take. We’ve changed this to ‘You can now publish your data’ to reflect that. It’s also more of a positive action reflective of the confirmation banner pattern, and the publishing needs to come first anyway before sending it to us.
 

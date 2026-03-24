@@ -38,7 +38,7 @@ This keeps each endpoint visually distinct and provides space for actions to edi
 
 It also allows space to highlight errors and issues with the endpoint data.
 
-![Three designs of the dataset details page with different ways of showing endpoints](https://design-history.ams3.digitaloceanspaces.com/bf64ko2kcd066kn1yzrlcqi2x0qm)
+![Three designs of the dataset details page with different ways of showing endpoints](/handling-multiple-endpoints/01-multiple-endpoints-design-options.png)
 
 ## Our solution
 
@@ -61,7 +61,7 @@ We haven't designed the edit or retire flows, but they should have the following
 
 - show a confirmation screen with a description of what would happen and a check box the user has to check before submitting
 
-![The dataset details page showing 4 active endpoints using the summary card pattern](https://design-history.ams3.digitaloceanspaces.com/fz5zjv38kf509v2oa1kr8k6n868o)
+![The dataset details page showing 4 active endpoints using the summary card pattern](/handling-multiple-endpoints/02-multiple-endpoints-final-design.png)
 
 ## Next steps
 

@@ -28,7 +28,7 @@ Additionally the [existing navigation patterns were being deprecated](https://gi
 
 Using the service navigation component we added links to the guidance that would be consistent across the whole provider service.
 
-![The page header using the service navigation component plus a flow diagram showing the relationship between guidance and the service](https://design-history.ams3.digitaloceanspaces.com/68yk1f9ulipvpptxxrr8sfxdmemk)
+![The page header using the service navigation component plus a flow diagram showing the relationship between guidance and the service](/improving-service-navigation/01-service-navigation.png)
 
 The lack of user authentication / identification means we have to use a generic “Find your organisation” menu item that links to the choose organisation page. If user authentication was added then a link to the LPA’s dashboard could be added to the service navigation.
 

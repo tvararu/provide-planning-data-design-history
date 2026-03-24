@@ -58,7 +58,7 @@ The design sprint helped us to reach these outcomes. [Take a look at the slide d
 
 The first day of the 5-day sprint was focused on creating shared understanding. We brought together individuals who had an in-depth experience of the service, individuals who understood the research conducted to-date, and reviewed a series of artifacts to identify key insights to take forward.
 
-![](https://design-history.ams3.digitaloceanspaces.com/kb3ouxf9i29nwkup0x0c3txlhwcc)
+![](/creating-the-minimum-viable-service-mvp/01-internal-show-and-tell-planning-data-2024-2.jpg)
 
 ### Day 2 - solving the problem
 
@@ -66,7 +66,7 @@ For the second day of the sprint, we decided to turn our collective knowledge in
 
 We engaged in a structured process, first designing paper prototypes to help structure and document our vague and rough ideas for refinement. We then began incrementally increasing the fidelity of the prototypes, until we agreed and designed an interaction design of the new journey flow.
 
-![](https://design-history.ams3.digitaloceanspaces.com/2zrzbxz20bc5g47kpvvqha4gu398)
+![](/creating-the-minimum-viable-service-mvp/02-internal-show-and-tell-planning-data-2024-3.jpg)
 
 ### Day 3 - building the solution
 
@@ -76,13 +76,13 @@ Working alongside our engineers and interaction designer, we dedicated day 3 of 
 
 We used day 4 of our 5-day sprint to engage with 4 LPAs, validate assumptions and test our new prototype with the users. This enabled us to ensure the solution being developed was on the right track.
 
-![](https://design-history.ams3.digitaloceanspaces.com/8rg1kxj92wvakaaju3twia7502pi)
+![](/creating-the-minimum-viable-service-mvp/03-internal-show-and-tell-planning-data-2024-4.jpg)
 
 ### Day 5 - what did we learn?
 
 The final day of the sprint was used to unpack the learnings we gained during the duration of the sprint. This helped us to validate what we learnt while also identifying future focus areas to implement the changes to the service journey.
 
-![](https://design-history.ams3.digitaloceanspaces.com/frbz977ul3t3vvge2y233c22l4b6)
+![](/creating-the-minimum-viable-service-mvp/04-internal-show-and-tell-planning-data-2024-5.jpg)
 
 ## Our solution
 

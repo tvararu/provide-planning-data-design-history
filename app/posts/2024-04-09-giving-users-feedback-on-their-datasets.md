@@ -31,9 +31,9 @@ The planning data providers service was originally comprised of a single tool to
 
 We had been instructed to develop another tool to give feedback to LPAs on the status of datasets they had already provided. We reviewed an existing prototype which had been designed by Paul Smith, but not tested with users.
 
-![The organisation dashboard from the original feedback prototype designed by Paul Smith](https://design-history.ams3.digitaloceanspaces.com/edul38rdpv01vy30b8fyjuhwg970)
+![The organisation dashboard from the original feedback prototype designed by Paul Smith](/giving-users-feedback-on-their-datasets/01-feedback-prototype-org-dashboard.png)
 
-![The tasklist page from the original feedback prototype developed by Paul Smith](https://design-history.ams3.digitaloceanspaces.com/trp0uvukg2veyfhc3438lwsplb5b)
+![The tasklist page from the original feedback prototype developed by Paul Smith](/giving-users-feedback-on-their-datasets/02-feedback-prototype-improve-data-tasklist.png)
 
 We identified the follow problems with the current service:
 
@@ -83,13 +83,13 @@ We came up with the following hypotheses to resolve the problems we had identifi
 
 From this workshop, we developed the idea of a dashboard which would give LPAs feedback on their data and provide a spring board for the tools they would need to submit and improve their data.
 
-![First iteration of the feedback tool user flow](https://design-history.ams3.digitaloceanspaces.com/akixbh3qaixhgh60zz7qeatt0274)
+![First iteration of the feedback tool user flow](/giving-users-feedback-on-their-datasets/03-feedback-mvp-flow.png)
 
 
 ## Our solution
 
 On presenting these early flows to the team, we decided it would be best to take this forward into a design sprint with the outcome of designing an end-to-end service.
 
-![The second iteration of the feedback flow showing how the dashboard is a launching point for the different tools LPAs need to use](https://design-history.ams3.digitaloceanspaces.com/y1d32x7acl31yuluww1bod1ujwuu)
+![The second iteration of the feedback flow showing how the dashboard is a launching point for the different tools LPAs need to use](/giving-users-feedback-on-their-datasets/04-lpa-dashboard-flow.png)
 
 

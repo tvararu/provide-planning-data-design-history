@@ -26,7 +26,7 @@ We needed a way to handle this in the UI, so users would be informed their file 
 In order to comply with [WCAG 2.1 Success Criterion 2.2.1 Timing Adjustable](https://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-required-behaviors.html) it is not possible to redirect the user to the results page automatically, so an intersitial page has to be shown to the user.
 
 The proposed flow:
-![User flow diagram showing how files would be processed asynchronously](https://design-history.ams3.digitaloceanspaces.com/45u6zzm9yarp3w3wyztrboztn6qw)
+![User flow diagram showing how files would be processed asynchronously](/asynchronous-file-upload-processing/01-proposed-user-flow.png)
 
 The intersitial page polls the server to see if the request has been processed. Once it has, it reveals a continue button for the user to manually progress.
 
