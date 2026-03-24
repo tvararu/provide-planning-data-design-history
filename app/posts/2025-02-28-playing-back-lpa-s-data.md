@@ -39,7 +39,7 @@ In May 2024, we utilised a design sprint (an intensive process aimed at innovati
 
 The first iteration of this played back geospatial data on a map and key information about the dataset. 
 
-![Page shows a map and a summary table of meta data](https://design-history.ams3.digitaloceanspaces.com/yebf0wjij02c46usyztk3e5g0ifw)
+![Page shows a map and a summary table of meta data](/playing-back-lpa-s-data/01-initial-dataset-details-designs-from-the-design-sprint.png)
 
 ### Introduction of dataset table and task list
 
@@ -66,16 +66,16 @@ A horizontal sub navigation menu sits along the top of the dataset page giving u
 On the overview page there is a dataset actions sub menu that lets users access the different actions they can perform on their data (read guidance, check and submit their data)
 
 Original dataset details user journey:
-![Two flow diagrams: the first shows a simple flat approach and the other shows how the dataset details page becomes a hub](https://design-history.ams3.digitaloceanspaces.com/fx3ua6qab5rzjpmigfs97t9qq0j9)
+![Two flow diagrams: the first shows a simple flat approach and the other shows how the dataset details page becomes a hub](/playing-back-lpa-s-data/03-dataset-details-release-iterations.png)
 
 Current dataset details user journey:
-![This flow diagram shows how the dataset details page is the hub with different flows starting from that point](https://design-history.ams3.digitaloceanspaces.com/j9g4r6akggfpk2gzdsha07smefcl)
+![This flow diagram shows how the dataset details page is the hub with different flows starting from that point](/playing-back-lpa-s-data/04-current-dataset-details-user-journey.png)
 
 ## Our solution
 
 The dataset details page has been iterated and improved, adding the The dataset details page has been iterated and improved, adding the map, dataset table, task list, and navigation options to provide a comprehensive playback of LPAs' data.
 
-![Page shows a map with the LPA boundary highlighted, metadata summary table and active endpoint data ](https://design-history.ams3.digitaloceanspaces.com/1asyp5rk62pmg5xtdrpy0v3hln8a)
+![Page shows a map with the LPA boundary highlighted, metadata summary table and active endpoint data ](/playing-back-lpa-s-data/02-current-dataset-details-design.png)
 
 ## Next steps
 

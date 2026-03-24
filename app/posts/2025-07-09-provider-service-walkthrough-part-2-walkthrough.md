@@ -1,9 +1,6 @@
 ---
 title: 'Provider service walkthrough: Part 2 — walkthrough'
-description: |-
-  Service walkthrough
-
-  !A user journey map of the provider service showing how the pages are linkedhttps://design-history.ams3.digitaloceanspaces.com/ryr7p04x8...
+description: Service walkthrough
 date: '2025-07-09'
 screenshots:
   items:
@@ -15,8 +12,8 @@ tags: []
 
 ## Service walkthrough
 
-![A user journey map of the provider service showing how the pages are linked](https://design-history.ams3.digitaloceanspaces.com/ryr7p04x8wnrkssh4rbvo3ge8plg)
-[Link to full resolution image](https://design-history.ams3.digitaloceanspaces.com/ryr7p04x8wnrkssh4rbvo3ge8plg)
+![A user journey map of the provider service showing how the pages are linked](/provider-service-walkthrough-part-2-walkthrough/01-provider-prototype-to-be-june-2025.png)
+[Link to full resolution image](/provider-service-walkthrough-part-2-walkthrough/01-provider-prototype-to-be-june-2025.png)
 
 ### [Landing page](https://provider-design.prototype.planning.data.gov.uk/walkthrough)
 

@@ -20,7 +20,7 @@ tags: []
 
 Observations and insights in user research sessions highlighted that users weren't reading the content on the start page and were going for 'the green button'.
 
-![The start page for the check planning and housing data service](https://design-history.ams3.digitaloceanspaces.com/5rwvfiawa5tvb3wg14opk9fcudfl)
+![The start page for the check planning and housing data service](/adding-a-landing-page-and-removing-the-start-page/01-check-start-page.png)
 
 User research in August 2024 also highlighted that users were not clear on the principles of the programme, for example the concept of providing open data which is indexed.
 
@@ -37,7 +37,7 @@ We also planned to iterate away from the GOV.UK start page design. We recognised
 
 In September 2024, redesigned the start page to the below. This first iteration with a view of making user led improvements over time.
 
-![The new landing page for the submit and update your planning data service](https://design-history.ams3.digitaloceanspaces.com/sczkwxr7rgmqbbft4otoxgorhr41)
+![The new landing page for the submit and update your planning data service](/adding-a-landing-page-and-removing-the-start-page/02-landing-page.png)
 
 ## Next steps
 

@@ -20,9 +20,9 @@ We have conducted regular usability testing to identify areas of focus. We learn
 
 We [replaced the landing page with a start page](https://submit-planning-data.designhistory.app/adding-a-landing-page-and-removing-the-start-page) to provide more information about the service and wider context of providing open data with plans to improve this further.&nbsp;We have improved service navigation to make guidance pages omnipresent so that users can access these at any point in their journey. The banner across the service is now as below.
 
-&nbsp;![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXfTFG6cU_fmDaK3jA2nvBzto6yiUMACbtA8GZNodax52LUEfwvRLAlBKiA7LuRcQKiNDIT__s9Otj-qq5gCQGm1Rd3dCDmzBce8KbAt5J-k13dwzdc1uqvGsUpSHD1_9lu4J3kpAg?key=0CMUkpqX1WGilADKiVeHJjjK)
+&nbsp;![](/improving-the-usability-of-guidance/01-service-navigation-banner.png)
 
-We introduced a step by step page which appears for each dataset which has not yet been provided by LPAs to the platform. [This design is based on the step by step pattern in the GOV.UK design system.](http://gov.uk)![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXcqEZduPz-6Pt53txAT49UOdX_ZP8OpKcUmEAMr186-oh8aIsPK4gIXz_BEULKveq2EvBt793Pi0nPZH6L8hnQcz8IfebjcRH1V4iA081YV4D3yyZVIiTyMs0VOlRb0CW51m9hPVQ?key=0CMUkpqX1WGilADKiVeHJjjK)
+We introduced a step by step page which appears for each dataset which has not yet been provided by LPAs to the platform. [This design is based on the step by step pattern in the GOV.UK design system.](http://gov.uk)![](/improving-the-usability-of-guidance/02-step-by-step-page.png)
 
 ## Next steps
 
@@ -40,14 +40,14 @@ We will work on actions from the away day which we hope will:* reduce friction b
 
 We are currently testing some new designs. We are planning to surface guidance snippets so that the information a user needs is present when they need as below. This was due to observations in user research that in order for a user to understand how to resolve the issue at hand, they would go to the guidance.
 
-&nbsp;&nbsp;![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXfowr9Wa1N_g94pFpFpojWnAgwax1JnvvksBsOR1r5ulC2BCGv-Gl6von2XDsE0JQJfOXzc1Gf3Cmob6Ty6vf3b-38zOJ7qyxKhx-RkiXjreiXTZwWO3y8x4sFvY_9IRqJAApUkZQ?key=0CMUkpqX1WGilADKiVeHJjjK)
+&nbsp;&nbsp;![](/improving-the-usability-of-guidance/03-guidance-snippets.png)
 
 We are also testing improvements in the step by step page of the user journey as below. This involves:
 
 * providing the user with the ability to select when they have completed a step
 * including buttons as the call to action in each step to provide a clear next step in the journey
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXc5J229kOoLIq5Os3wkaiXdfvld4Q6DlR-dHI8B8gMobcD_g6MT2a4qAipmgUrolL5GbAmbeNBszfbRl9kHuNqRK3iR0xn6judreCFcJgNqBTK4MVm3MsEudZycsp2Wm4CEwS89qQ?key=0CMUkpqX1WGilADKiVeHJjjK)
+![](/improving-the-usability-of-guidance/04-step-by-step-improvements.png)
 
 
 

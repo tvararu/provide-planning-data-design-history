@@ -26,7 +26,7 @@ Historically, users have had to email our data management team whenever they had
 
 3. Our data management team uses JIRA to track submissions from users. Sometimes, users have replied to old JIRA email threads to submit their datasets, not realising those JIRA threads had been closed on our end. This meant that our team didn’t pick those up. 
 
-![](https://design-history.ams3.digitaloceanspaces.com/90d36skb9ciyo08ge8z3pqh6z1xg)
+![](/making-it-easier-to-submit-data/01-screenshot-2025-03-04-at-10.36.14.png)
 The screenshot shows our current guidance, prompting users to email us manually. 
 
 ## Our approach
@@ -62,7 +62,7 @@ As part of the cyber approval, we were advised to do an IT health check. We’re
 
 We’ve also started to make design tweaks to recurring user insights, such as confusion around terminology like ‘endpoint URL’ and ‘webpage URL’. 
 
-![](https://design-history.ams3.digitaloceanspaces.com/niuo6o1o1yeq6o8s1b20k2rksx31)
+![](/making-it-easier-to-submit-data/02-screenshot-2025-03-04-at-10.39.06.png)
 
 We’ll be researching this further over the next few weeks by carrying out some highlighter testing with participants to help us refine this further.
 

@@ -61,7 +61,7 @@ We used this insight to adjust the Check tool to ensure there was parody between
 
 **Solution:** Enabling users to view a map that features the data they uploaded for review, so users can visually see if their data is accurate and within their boundary.
 
-![check tool results page](https://design-history.ams3.digitaloceanspaces.com/3blcdgyhv8i0irfw0xukawyrdhqx)
+![check tool results page](/check-tool/01-07a-results-blocking.png)
 
 ### Assist users to identify issues with their data
 
@@ -69,7 +69,7 @@ We used this insight to adjust the Check tool to ensure there was parody between
 
 **Solution:** We made it easier for users to identify the issues with their data by highlighting in the tabular view where the issues were within their dataset and provided additional commentary to contextualize why this is an issue.
 
-![check tool issue details](https://design-history.ams3.digitaloceanspaces.com/mjkirj457di1a11gmrpk14i1ktnb)
+![check tool issue details](/check-tool/02-08-issues-table.png)
 
 ### Supporting users to submit their datasets incrementally 
 

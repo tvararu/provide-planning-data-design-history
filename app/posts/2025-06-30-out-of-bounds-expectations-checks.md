@@ -47,19 +47,19 @@ We needed to ensure that:
 
 Exploring this problem it made sense for this to fit within the established patterns for highlighting issues to users using the task list.
 
-![Wireframs of the out of bounds flow with post-its showing feedback](https://design-history.ams3.digitaloceanspaces.com/pxvjvotghbnk59dc5k4y4z969kfi)
+![Wireframs of the out of bounds flow with post-its showing feedback](/out-of-bounds-expectations-checks/01-design-critique-providers-data-design.png)
 
 We designed some wireframes showing the proposed flow and presented them in a [design crit](https://app.mural.co/t/mhclg2837/m/mhclg2837/1729841459350/3c903499841bd18b161b2a1c8a7c778ac461c85b?wid=0-1738846628830) with other members of the team and stakeholders from the Data Managment team.
 
 The feedback from this session was used to refine the designs.
 
-![Figma mock up of dataset details page showing out of bounds entities](https://design-history.ams3.digitaloceanspaces.com/umjxrn8k2r4dax7hxwwxfr87gh9g)
+![Figma mock up of dataset details page showing out of bounds entities](/out-of-bounds-expectations-checks/02-dataset-details-out-of-bounds.png)
 
 As the designs used the existing flow we decided that this feature could be rolled out without testing, and we could gather feedback and usage metrics once it was in production.
 
 We refined the design further, creating an [interactive prototype](https://provider-design.prototype.planning.data.gov.uk/out-of-bounds/organisations/local-authority:SNO/conservation-area/overview) to develop the map including using an accessible colour palette based on the [Local Plans policy map guidance](https://www.gov.uk/guidance/how-to-present-your-policies-map) and adding a legend.
 
-![Dataset details page showing out of bounds entities](https://design-history.ams3.digitaloceanspaces.com/hodr48q4195aeay81zozndyrmsm2)
+![Dataset details page showing out of bounds entities](/out-of-bounds-expectations-checks/03-dataset-details-out-of-bounds-prototype.png)
 
 We segmented the task list into 3 sections, based on the iterative check flow:
 
@@ -67,7 +67,7 @@ We segmented the task list into 3 sections, based on the iterative check flow:
 - **Issues you should fix:** These are data validation errors found by the pipeline. The record can be processed, but the data returned by the API would not meet the specifications. For example, a date in the wrong format or text where a number is expected.
 - **Improve the accuracy of your data:** This category is for expectation checks being added to the pipeline. Currently, this would show out-of-bounds issues.
 
-![Task list page with tasks separated out under different headings](https://design-history.ams3.digitaloceanspaces.com/s4ogq4q8u7b2hyal6s2b48ytq9gt)
+![Task list page with tasks separated out under different headings](/out-of-bounds-expectations-checks/04-segmented-tasklist.png)
 
 On the issue detail page we included some guidance on what to do if the entity is outside of the boundary for legitimate reasons.
 

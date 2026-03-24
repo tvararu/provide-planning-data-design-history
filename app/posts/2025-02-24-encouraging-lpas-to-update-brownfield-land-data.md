@@ -68,7 +68,7 @@ To track the impact of our approach, we utilised Smartlook to track and review i
 
 To encourage LPAs to review their register by 31 December, we designed a notification banner to appear on LPAs’ dashboards at the top of the screen, [based on best practice from the design system](https://design-system.service.gov.uk/components/notification-banner/). 
 
-![](https://design-history.ams3.digitaloceanspaces.com/dxhblu8tji7kbfahmoaxqv98szu3)
+![](/encouraging-lpas-to-update-brownfield-land-data/01-screenshot-2025-02-24-at-15.29.51.png)
 
 ### Email to LPAs
 
@@ -102,13 +102,13 @@ We sent the email to 283 recipients. Of those, 41 emails bounced.
 
 In total, 83 LPAs updated their brownfield land registers after receiving the email.
 
-![](https://design-history.ams3.digitaloceanspaces.com/5pjbge35kxshfa1n9k5okn6c1u49)
+![](/encouraging-lpas-to-update-brownfield-land-data/02-screenshot-2025-02-24-at-15.33.08.png)
 
 ### LinkedIn post
 
 We also worked with the comms team to publish a LinkedIn post to help catch the eye of more LPAs:
 
-![](https://design-history.ams3.digitaloceanspaces.com/a1u1uhrd6wmllp31n0f7su80jbyh)
+![](/encouraging-lpas-to-update-brownfield-land-data/03-screenshot-2025-02-24-at-14.30.37.png)
 
 ## Next steps
 
