@@ -7,7 +7,7 @@ export default function (eleventyConfig) {
   // https://govuk-eleventy-plugin.x-govuk.org/get-started/options/
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
-      productName: 'Design History',
+      productName: 'Provide and update planning and housing data for England',
       search: {
         indexPath: '/search-index.json',
         sitemapPath: '/sitemap'
@@ -23,7 +23,7 @@ export default function (eleventyConfig) {
     },
     url:
       process.env.GITHUB_ACTIONS &&
-      'https://x-govuk.org/govuk-design-history-template/'
+      'https://tvararu.github.io/provide-planning-data-design-history/'
   })
 
   // Passthrough
@@ -49,6 +49,6 @@ export default function (eleventyConfig) {
       layouts: '_layouts',
       includes: '_components'
     },
-    pathPrefix: process.env.GITHUB_ACTIONS && '/govuk-design-history-template/'
+    pathPrefix: process.env.GITHUB_ACTIONS && '/provide-planning-data-design-history/'
   }
 }
